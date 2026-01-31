@@ -1,4 +1,4 @@
-package main.java.com.bruno.cursojava.exercicio25a27;
+package main.java.com.bruno.cursojava.exercicio28a33;
 
 import java.util.Scanner;
 
