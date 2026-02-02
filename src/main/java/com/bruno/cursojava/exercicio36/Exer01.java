@@ -12,5 +12,7 @@ public class Exer01 {
         agenda.setNome(scan.next());
 
         agenda.criarContatos();
+        agenda.listarContatos();
+        agenda.buscarContato();
     }
 }
